@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://kakuregaliterario.github.io/blog/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://kakuregaliterario.github.io/blog/</loc>
+</url>
+<url>
+<loc>https://kakuregaliterario.github.io/blog/dicas-de-leitura.html</loc>
+<lastmod>2026-03-01T14:06:08-03:00</lastmod>
+</url>
+<url>
+<loc>https://kakuregaliterario.github.io/blog/filmes-e-series.html</loc>
+<lastmod>2026-03-01T14:06:23-03:00</lastmod>
+</url>
+<url>
+<loc>https://kakuregaliterario.github.io/blog/inicio.html</loc>
+<lastmod>2026-03-01T14:39:07-03:00</lastmod>
+</url>
+<url>
+<loc>https://kakuregaliterario.github.io/blog/jogos.html</loc>
+<lastmod>2026-03-01T14:06:33-03:00</lastmod>
+</url>
+<url>
+<loc>https://kakuregaliterario.github.io/blog/resenha-a-guerra-da-papoula.html</loc>
+<lastmod>2026-03-16T17:50:21-03:00</lastmod>
+<image:image>
+<image:loc>https://kakuregaliterario.github.io/blog/media/posts/1/Gemini_Generated_Image_bsw9rvbsw9rvbsw9.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://kakuregaliterario.github.io/blog/media/posts/1/mapa-nikan.jpg</image:loc>
+<image:title><![CDATA[Mapa do mundo de Guerra da Papoula. Fonte: Intrinseca]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://kakuregaliterario.github.io/blog/resenhas.html</loc>
+<lastmod>2026-03-16T17:34:52-03:00</lastmod>
+</url>
+<url>
+<loc>https://kakuregaliterario.github.io/blog/sobre.html</loc>
+<lastmod>2026-03-18T19:05:25-03:00</lastmod>
+</url>
+<url>
+<loc>https://kakuregaliterario.github.io/blog/tag-metas-literarias-para-2026.html</loc>
+<lastmod>2026-03-19T09:38:41-03:00</lastmod>
+<image:image>
+<image:loc>https://kakuregaliterario.github.io/blog/media/posts/14/Paperwhite-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
